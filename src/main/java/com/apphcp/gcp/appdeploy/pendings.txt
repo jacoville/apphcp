@@ -1,0 +1,5 @@
+completar el get
+crear el push
+agregar validaciones
+disenar bd
+subir al cloud
